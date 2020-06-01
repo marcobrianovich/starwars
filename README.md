@@ -10,7 +10,7 @@ It's time to open the old lacquered trunk and dust off the mysterious patriarcha
 
 I asked the boys which era they'd like to adventure in. They both said they preferred the latest trilogy, which makes sense as these are the films that had the greatest impactful on them and, I think, better match the sensibilities of younger audiances. 
 
-So the campaign is set in the aftermath of the First Order strike on Hosnian Prime. With both the New Republic capital and defense fleet destroyed the galaxy is plunged into chaos, the First Order sents out its Restoration Fleet, in order to subjigate the important core systems.
+So the campaign is set in the aftermath of the First Order strike on Hosnian Prime. With both the New Republic capital and defense fleet destroyed the galaxy is plunged into chaos, the First Order then sends out its Restoration Fleet, in order to subjigate the important core systems and claim control over the whole galaxy.
 
 While the resistance, under General Leia Organa remains the First Order's main target, there are others around the galaxy who would also take a stand against the First Order, hiding in the shadows, striking when they can.
 
