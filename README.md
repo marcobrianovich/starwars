@@ -8,7 +8,7 @@ It's time to open the old lacquered trunk and dust off the mysterious patriarcha
 
 ## Resistance Campaign
 
-I asked the boys which era they'd like to adventure in. They both said they preferred the latest trilogy, which makes sense as these are have been the most impactful and, I think, better match the sensibilities of younger audiances. 
+I asked the boys which era they'd like to adventure in. They both said they preferred the latest trilogy, which makes sense as these are the films that had the greatest impactful on them and, I think, better match the sensibilities of younger audiances. 
 
 So the campaign is set in the aftermath of the First Order strike on Hosnian Prime. With both the New Republic capital and defense fleet destroyed the galaxy is plunged into chaos, the First Order sents out its Restoration Fleet, in order to subjigate the important core systems.
 
