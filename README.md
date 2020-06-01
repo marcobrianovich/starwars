@@ -14,5 +14,19 @@ So the campaign is set in the aftermath of the First Order strike on Hosnian Pri
 
 While the resistance, under General Leia Organa remains the First Order's main target, there are others around the galaxy who would also take a stand against the First Order, hiding in the shadows, striking when they can.
 
+Read more about the fall of Hosnian Prime: https://starwars.fandom.com/wiki/Hosnian_Cataclysm
+
+## Aftermath
+
+In the weeks following the destruction of the galactic senate, First Order cruisers take up position in strategically important core systems. These core worlds are powerless to resist the might of the First Order fleet and one by one they capitulate. However, without the absolute power of Star Killer base, many systems begin to mount their own resistance efforts.
+
+The PCs are a group of individuals who have decided to resist the tyranny of the First Order. They're going to take whatever action they can to frustrate the efforts of the First Order in their quadrant.
+
+### Episode One: Children of War
+
+The PCs learn of an internment camp populated by young children who have been "recruited" by the First Order. These children are soon to be transported to one of the Fist Order Fortress worlds where they will undergo indoctrination and Storm Trooper training. The PCs decide that they're not going to let this happen. They're going to break out the children and take them to safety.
+
+
+
 ## Amaxine Warriors / First Order
 
