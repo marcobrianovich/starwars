@@ -13,9 +13,9 @@ The campaign takes place in Sector 71, which is on the outskirts of the core. Th
 
 The PCs form a party of people who have decided to join the Resistance. Initially, they have no contacts in the Resistance and must fight on their own. As the campaign progresses, their actions come to the attention of General Organa, who will provide limited assistance in return for their completing missions.
 
-### The Party
+### The Party
 
-TBC
+The PCs consist of a smuggler, an ex-bounty hunter and a mysterious force user, along with an R2 unit and ...
 
 
 ### The opponents
