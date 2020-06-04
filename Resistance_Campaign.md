@@ -15,6 +15,7 @@ The PCs form a party of people who have decided to join the Resistance. Initiall
 
 ### The Party
 
+TBC
 
 
 ### The opponents
