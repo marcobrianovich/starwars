@@ -22,6 +22,11 @@ The player characters' party consists of the following individuals.
 * **Sahlee Farseer**, a mysterious 14-year-old girl with suspected Force powers. Sahlee was a stowaway on the Helping Hand who Lonn Sohn took pity on and has unofficially adopted. Sahlee is smart and tough but she won't talk about her background.
 * **BD-71**, A "free" droid (a small number of advanced droids who own themselves and have official galactic citizenship). BD-71 was an advanced prototype battledroid from the Trade Federation who escaped his unit and joined a group of free droids that called itself "the clankers".
 
+#### The Helping Hand
+
+![enter image description here](https://w93nhg.db.files.1drv.com/y4m5TjyqMDeZJazgISy6QeUE_fDLtITpCr0ytcDMj1SmxfG7R73pjSOEabcoFnpG036e3i-gHgHE_VPhlEKkNZTaeN2nZRXCH-PVZZunTXj6ObsRB5YM3Hz6gQFrVc5jT9fv_KoDdvt4mQezTcupH7JcjU6XEBGJIzIRks8cevvcYuHZ1rMv2XVyyZz7hg4Ih_OaBZpZIFieHv0BbD1AjDGuw?width=1024&height=661&cropmode=none)
+
+
 ### The opponents
 
 The First Order Cruisers Dominator and War Roc take up position in orbit around the planet. Over the course of 2 weeks The First Order installs its personel in the local government, co-opting the planetary security force. In command of the ships are Captain Valance, a ruthless by-the-book Office, while War Roc is commanded by Zaan, a mysterious associate of Kylo Renn who is preoccupied the search for Jedi relics and or force users.
