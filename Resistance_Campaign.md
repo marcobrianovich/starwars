@@ -17,7 +17,8 @@ The player characters have decided to join the Resistance. Initially, they have 
 
 The player characters' party consists of the following individuals.
 
-* **Lonn Sohn**, would-be smuggler and captain of the Helping Hand, a banged-up Hypedeen Systems Type-81 Bacta Tanker, Lonn * **Nal Laxo**, retired bounty hunter who started out as an Imperial Stormtrooper during the Battle of Endor. Nal is Lonn's friend/body guard and crew member.
+* **Lonn Sohn**, would-be smuggler and captain of the Helping Hand, a banged-up Hypedeen Systems Type-81 Bacta Tanker.
+* **Nal Laxo**, retired bounty hunter who started out as an Imperial Stormtrooper during the Battle of Endor. Nal is Lonn's friend/body guard and crew member.
 * **Sahlee Farseer**, a mysterious 14-year-old girl with suspected Force powers. Sahlee was a stowaway on the Helping Hand who Lonn Sohn is trying to look after. She won't talk about her background.
 * **BD-71**, A "free" droid (a small number of advanced droids who own themselves and have official galactic citizenship). BD-71 was an advanced prototype battledroid from the Trade Federation who escaped his unit and joined a group of free droids that called itself "the clankers".
 
