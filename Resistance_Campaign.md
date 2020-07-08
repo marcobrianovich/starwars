@@ -7,18 +7,21 @@ At this time, the First Order, under Supreme Leader Snoke, launches its fleet on
 A few core star systems, such as Coruscant, go into full revolt, forcing the First Order to dedicate its command ships, such as Snoke's own flagship, to blockade these systems. Although this handful of systems hold back the First Order's fleet, they are isolated from each other, leaving General Leia's Resistance as the only force capable of taking the offensive to the First Order.
 
 
-### Sector 71
+### Sector 17
 
-The campaign takes place in Sector 71, which is on the outskirts of the core. The PCs are at the local starport when news comes in that two First Order Star Cruisers have arrived in system. Most independent starships try to leave but are quickly intercepted and impounded. 
+The campaign takes place in Sector 17, which is on the outskirts of the core. The PCs are between jobs at Glimtyde starport when news comes in that two First Order Star Cruisers have arrived in system. Most independent starships try to leave but are quickly intercepted and impounded. 
 
-The PCs form a party of people who have decided to join the Resistance. Initially, they have no contacts in the Resistance and must fight on their own. As the campaign progresses, their actions come to the attention of General Organa, who will provide limited assistance in return for their completing missions.
+The player characters have decided to join the Resistance. Initially, they have no contacts in the Resistance and must fight on their own. As the campaign progresses, their actions come to the attention of General Organa, who will provide limited assistance in return for their completing missions.
 
 ### The Party
 
-The PCs consist of a smuggler, an ex-bounty hunter and a mysterious force user, along with an R2 unit and ...
+The player characters' party consists of the following individuals.
 
+* **Lonn Sohn**, would-be smuggler and captain of the Helping Hand, a banged-up Hypedeen Systems Type-81 Bacta Tanker, Lonn * **Nal Laxo**, retired bounty hunter who started out as an Imperial Stormtrooper during the Battle of Endor. Nal is Lonn's friend/body guard and crew member.
+* **Sahlee Farseer**, a mysterious 14-year-old girl with suspected Force powers. Sahlee was a stowaway on the Helping Hand who Lonn Sohn is trying to look after. She won't talk about her background.
+* **BD-71**, A "free" droid (a small number of advanced droids who own themselves and have official galactic citizenship). BD-71 was an advanced prototype battledroid from the Trade Federation who escaped his unit and joined a group of free droids that called itself "the clankers".
 
 ### The opponents
 
-The First Order Cruisers Dominator and War Roc take up position in orbit around the planet. Over the course of 2 weeks The First Order installs its personel in the local government, co-opting the planetary security force. In command of the ships are Captain Valance, a ruthless by-the-book Office, while War Roc is commanded by Zaan, a mysterious associate of Kylo Renn who appears to be searching for Jedi relics and or force users.
+The First Order Cruisers Dominator and War Roc take up position in orbit around the planet. Over the course of 2 weeks The First Order installs its personel in the local government, co-opting the planetary security force. In command of the ships are Captain Valance, a ruthless by-the-book Office, while War Roc is commanded by Zaan, a mysterious associate of Kylo Renn who is preoccupied the search for Jedi relics and or force users.
 
