@@ -4,23 +4,23 @@ A Star Wars Roleplaying Game Adventure set in the Resistance Era.
 
 ### Introduction
 
-In the days and weeks after the destruction of Hosnian Prime, the First Order's subjugation fleet spread across the galaxy, its warships taking up position in key star systems. Two cruisers have taken up position in the strategically important Dajahn system, which is the current base of operation for the player characters (PCs).
+In the days and weeks after the destruction of Hosnian Prime, the First Order's subjugation fleet spreads across the galaxy, with countless warships taking up position in key star systems. Two cruisers have taken up position in the strategically important Dajahn system, which is the current base of operation for the player characters (PCs).
 
-Together, the PCs have decided that they can no longer sit back and watch the galaxy fall to the evil First Order. But how to respond? What to do, where to go? The obvious thing to do is to join the Resistance, but you can't just sign up, its a secret organisation. So, to start the PCs must find a way to resist on their own.
+Together, the PCs have decided that they can no longer sit back and watch the galaxy fall to the evil First Order. But how to respond? What to do, where to go? The obvious thing to do is to join the Resistance, but you can't just sign up, its a secret organisation, afterall. So, to start the PCs must find a way to resist on their own.
 
 ### Adventure Synopis
 
-It's time to make your stand against the First Order, but what can a washed-up Bacta tanker pilot and his motely ground of friends do against an unstoppable military machine? The PCs friend and a eponymous proprietor of Glokan's, a spice-coffee bar located at the cheaper end of the star port, has an idea.
+It's time to make your stand against the First Order, but what can a washed-up Bacta tanker pilot and his motley ground of friends do against an unstoppable military machine? Glokan, the PCs friend and proprietor of Glokan's spice-coffee bar, located at the cheaper end of the star port, has an idea.
 
-Glokan's coffee-machine repair engineer is also an habitual eaves-dropper who has been decrypting and monitoring much of the First Order's communication traffic. He's shocked to learn that the First Order has already swept through the communities surrounding the star port, picking up children and transporting them to a refugee camp in the star port. These children are not being looked after, they will soon be transported off-world, destined to enter Stormtrooper training or enter a life of slavery in a First Order work camp. This can't be allowed to happen! The PCs must somehow rescue the children.
+Glokan's Sullustan coffee-machine repair engineer, Reeba Nannab is also an habitual eaves-dropper who has been decrypting and monitoring much of the First Order's comms traffic. She was shocked to learn that the First Order has already swept through the communities surrounding the star port, picking up children and transporting them to a refugee camp in the star port. These children are not being looked after, they will soon be transported off-world, destined to enter Stormtrooper training or enter a life of slavery in a First Order work camp. This can't be allowed to happen! The PCs must somehow rescue the children.
 
-Additional facts are now known. The First Order is stretched, so it has been forced to hire a slaver called Mansar Dred who, in three days time will arrive at the refugee camp in order to transport the children to the First Order indoctrination camp on Talax Maxima. Apparently, Dred is already here on Dajahn, resting at the Reaba-Dajahn exclusive mountain spar. It should be possible for the PCs to sneak into the Spar and steal Dred's First Order Sanction Fob, a small metallic token that can be used by the PCs to pretend to be Dred, allowing them to pick up the children and whisk them to safety.
+Additional facts are now known. The First Order forces remain stretched, so it has been forced to hire a slaver called Mansar Dred, who is scheduled to pick up the children in three days and transport them to the First Order indoctrination camp on Talax Maxima. Apparently, Dred is already here on Dajahn, resting at the Reaba-Dajahn exclusive mountain spar. It should be possible for the PCs to sneak into the Spar and steal Dred's First Order Sanction Fob, a small metallic token that can be used by the PCs to pretend to be Dred, allowing them to pick up the children and whisk them to safety.
 
-The PCs sneak into Reaba-Dajahn Spar, they have been encouraged to go in disguise with minimum weapons. On arrival they find that the Spar is under heavy attack from a combination of criminal gang members and First Order troopers -- they quickly learn that the biggest criminal gang operating on Dejahn has just made a deal with the First Order, to ensure that the planet's criminals don't side against the First Order, in return, the First Order is supporting a grand take-over of the largest criminal enterprises. Apparently the Spar is the headquarters of a criminal gang.
+The PCs sneak into Reaba-Dajahn Spar, they have been encouraged to go in disguise with minimum weapons. On arrival they find that the Spar is under heavy attack from a combination of criminal gang members and First Order troopers -- they quickly learn that Golden Fang, the biggest criminal gang operating on Dejahn has just made a pact with the First Order, to ensure that the planet's criminals don't side against the First Order. In return, the First Order is supporting the Golden Fang's grand take-over. Apparently, the Spar was the headquarters of a smaller criminal gang.
 
-The PCs must work their way to Dred's challet, while avoiding conflict with any number of hostiles. The good news is that given the PCs are not the target of any of the attackers or defenders, if they stay out of the fight, they won't be targetted directly.
+The PCs must work their way to Dred's chalet, while avoiding conflict with any number of hostiles. The good news is that given the PCs are not the target of any of the attackers or defenders, if they stay out of the fight, they won't be targetted directly.
 
-The PCs should be able to work their way to the small challet currently occupied by Mansar Dred. They find the challet is very badly damaged, possibly hit by a Tie-bomber strike that started the attack. It looks like Dred was killed, although, in fact it is not Dred but his manservant whose body the PCs find. However, the PCs do recover the First Order Sanction Fob - that will allow them to take on the identity of the slaver.
+The PCs should be able to work their way to the small chalet currently occupied by Mansar Dred. They find the chalet is very badly damaged, possibly hit by a Tie-bomber strike that started the attack. It looks like Dred was killed, although, in fact it is not Dred but his manservant whose body the PCs find. However, the PCs do recover the First Order Sanction Fob - that will allow them to take on the identity of the slaver.
 
 The second act begins with the PCs getting a map of the First Order refugee camp which they will use to make a plan for picking up the children. How this act proceeds is completely dependent on what the PCs intend to do. However, things complicate when a small shuttle arrives, delivering the very much alive Mansar Dred...
 
@@ -35,40 +35,62 @@ The adventure ends as the children are passed on to the resistance transporter "
 
 ### Getting Started
 
+### Act 1:  Making a stand
 
-### Scene 1: Time to make a stand
+### Scene 1: Resistance starts with a spice coffee
 
-In the opening scene, the PCs are introduced to their characters and the campaign setting. They learn that the First Order deployed two cruisers in the strategically important Dajahn system. Gamba Jahn, the capital city of Dajahn is both a major trade hub and is Sector 17's largest industrial centre, with droid and armament factories and a countless chemical processing plants.
+In this opening scene, the PCs are introduced to their characters and the campaign setting. They learn that the First Order deployed two cruisers in the strategically important Dajahn system. Gamba Jahn, the capital city of Dajahn is both a major trade hub and is Sector 17's largest industrial centre, with droid and armament factories and a countless chemical processing plants.
 
 The first order intend to turn Dajahn's output towards their own war effort. To this end they are moving in large numbers of troops for an eventual full occupation. For now, the First Order is stretched thin, leaving room for those who would make a stand and resist their oppression.
 
-The PCs are at their favourite drinking hole, Glockan's Place. More a spice coffee shop than a cantina. Glockan is perminantly situated on a large pedistal behind the bar. He's an Iphibbian,  whose bulky hair covered barrel-shapped body houses a surprisingly friendly looking face surrounded by an array of 8 long tenticles which he uses to simultaneously serve spice coffees, clean cups and dispense sweet snacks. Glockan in unable to speak directly in standard but uses a protocol droid called PD-8 to converse with customers. 
+The PCs are at their favourite drinking hole, Glockan's Place. More a spice coffee shop than a cantina. Glockan is perminantly situated on a large pedistal behind the bar. He's an Iphibbian,  whose bulky, hair-covered barrel-shapped body houses a surprisingly friendly looking face surrounded by an array of 8 long tenticles which he uses to simultaneously serve spice coffees, clean cups and dispense sweet snacks. Glockan can't speak Galactic Basic directly, but wears a sort of necklace that sports the head of a protocol droid called PD-8, who happily helps Glockan converse with customers. 
 
-Glockan has two friends who are perminantly situated at his shop, Spinndoo Slannk is a Sulustian technicial who keeps the spice coffee and food vending machines in good working order. He is also a talented eaves dropper who routinely monitors all traffic going through the starport. Glockan's other friend is Trish Vindaar, a retired Bacta Tanker pilot and an old frienemy of Lonn's. Since Trish retired, she and Lonn have been getting on much better.
+> **GM Readout**
+> Life is this galaxy is not easy. You've all had to work hard. Lonn has struggled to win contracts for his banged-up Bacta tanker. Ex-storm trooper and retired bounty hunter, Nal, Lonn's oldest friend takes care of security, but every day things get more dangerous. Their companion, ex-battle droid BD-71 works its magic to keep their ship flying but suddenly independent ships are starting to feel the burdon of extra red tape. Very soon it may be impossible to flyi unless under the control of the First Order. And finally, Sarlee, the mysterious young teenager, and would-be stowaway, who everyone suspects of harbouring Force powers, she faces more dangers than anyone as the First Order actively hunts down anyone with Force sensitivity. 
+>
+> So, the time has come to take action. You all agree that its no longer enough to stand on the sidelines and hope the First Order will give up it's ambitions to take control of the whole galaxy. The New Republic has fallen, the first Order's subjugation fleet is now moving through the Free Systems, taking control. Thankfully General Leia Organa's resistance forces where able to destroy the First Order's super weapon, the so-called Star Killer Base, but the First Order retalliation was swift and devastating - last anyone heard the Resistance fleet was all but destroyed.
+> It seems that if you want the First Order defeated, you're going to have to do it yourselves. To this end, you are sitting at the bar in Glockan's, a spice-coffee bar located at the cheaper end of the star port. Glockan is an old friend and confidant who you have asked for help.
 
-The scene tells of the PCs decission to make a stand against the First Order, to join the resistence if they can. They conflide in Glockan, who they have known for years and completely trust. In turn, Glockan reveals that his technician, Spinndoo has been decrypting and listening in on First Order transmissions. He's heard something that is very concerning, the first order have done a sweep of local communities, looking for children between 5-10, taking them into custody for housing in various education camps, however, Spinndoo has discovered that these children, who are currently housed at a warehouse near the star port are, in two days, going to be transported to a First Order indoctination centre where Storm Trooper training will begin. Those children who do not have suitble qualities for training as troopers will end up in work camps for the rest of their lives. This cannot be allowed, those children must be rescued and taken to safety.
+Glockan has two friends who are perminantly situated at his shop, Reeba Nannab, a Sulustian technicial who keeps the spice coffee and food vending machines in good working order. She is also a talented eavesdropper who routinely monitors all traffic going through the starport. Glockan's other friend is Trish Vindaar, a retired Bacta Tanker pilot and an old frienemy of Lonn's. Since Trish retired, she and Lonn have been getting on much better.
 
-As the First Order is stretched for resources, they have sactioned the transportation of the children to a slaver called Mansar Dred. Spinndoo has tracked down the location of Dred, who is spending time at his favourite spar in the mountains overlooking Dajhan City. It might be possible to go to the spar and steal Dred's First Order landing FOB, which would allow the PC's to land at the First Order camp, and, pretending ot be Mansar Dred, take the children away.
+The scene tells of the PCs decission to make a stand against the First Order, to join the resistence if they can. They confide in Glockan, who they have known for years and completely trust. In turn, Glockan reveals that his technician, Reeba has been decrypting and listening in on First Order transmissions. He's heard something that is very concerning, the first order have done a sweep of local communities, looking for children between 5-10, taking them into custody for housing in various education camps, however, Reeba has discovered that these children, who are currently housed at a warehouse near the star port are, in two days, going to be transported to a First Order indoctination centre where Storm Trooper training will begin. Those children who do not have suitble qualities for training as troopers will end up in work camps for the rest of their lives. This cannot be allowed, those children must be rescued and taken to safety.
 
-Scene Two: Spar House Rock
+As the First Order is stretched for resources, they have sactioned the transportation of the children to a slaver called Mansar Dred. Reeba has tracked down the location of Dred, who is spending time at his favourite spar in the mountains overlooking Dajhan City. It might be possible to go to the spar and steal Dred's First Order landing FOB, which would allow the PC's to land at the First Order camp, and, pretending ot be Mansar Dred, take the children away.
+
+> **Player Readout**
+> **Lonn:** I've been thinking of joining the fight for a while, but I didn't want to put any of you in more danger.
+> **Nal:** I eat danger for breakfast. In fact I'm not happy unless I get double-helpings.
+> **BD-71:** Nal, this is the First Order we're going up against. This is breakfast, snacks, lunch, more snacks and dinner - ALL OF IT DEADLY DANGEROUS!!!
+> **Saahlee:** I've been running scared my entire life. I want to fight back! I know I'm not a warrior but I can do my part. Maybe a small part.
+> **Glockan:** HHAAA BAAAA GA BE GA BA BAH UPATA
+> **PD-8 (Glockan's translater):** Glockan says 'My friends, Start with a small act of resistance.'
+> **Glockan:** (SHOUTS) REEBA SHAAA BA HA HA BA GAMBAMA.
+> Glockan's Sulustan technician peers out of a small hatch, apparently secretly listening to your entire conversation.
+> **Reeba:** I think I know what you should do.
+
+### Act Two - Spar House Rock
 
 The PCs travel to the exclusive Spar Club where they must sneak in and steal Mansar Dred's First Order landing FOB, a small token that will identify the PCs ship as one working on behalf of the First Order. The Spar, it turns out is the headquarters for a local crime boss -- complicating the mission.
 
 During the mission the PCs learn that Mansar Dred has betrayed the Crime Boss. Dropping the evidence in the hands of the Crime boss allows the PCs the leave with Mansar's fob, while Mansar is dragged into the gyser caverns, as a prisoner of the crime boss.
 
 
-Scene Three: The big rescue
+
+### Act Three: The big rescue
+
+#### Scene 1 - Planning
 
 Armed with the First Order Fob, the PCs can now travel to the First Order holding facility to pick up the children.
 
-Scene Four: Things go south
+#### Scene 2 = Things go south
 
 As the rescue goes on, another ship arrives carrying an escaped Mansar Dred who protests that he is Mansar Dred and that his ID was stolen. Things get fraught, do the PCs continue to claim the identity?
 
-...Possibly Spinndoo Slannk sends a transmission to the base alerting them to the presence of a conman who has been trying to pass himself off as the slaver Mansar Dred. This muddies the water enough for suspicion to fall on Dred, giving the PCs a chance to make a quick exit. 
+...Possibly Reeba sends a transmission to the base alerting them to the presence of a conman who has been trying to pass himself off as the slaver Mansar Dred. This muddies the water enough for suspicion to fall on Dred, giving the PCs a chance to make a quick exit. 
 
-Scene Five: Escape
+#### Scene 3: Escape
 
+#### Scene 4: Cavelry
 
-Scene Six: Safe and Sound
+#### Scene 5: Safe and Sound
 
