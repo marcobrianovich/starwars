@@ -58,15 +58,15 @@ The scene tells of the PCs decission to make a stand against the First Order, to
 As the First Order is stretched for resources, they have sactioned the transportation of the children to a slaver called Mansar Dred. Reeba has tracked down the location of Dred, who is spending time at his favourite spar in the mountains overlooking Dajhan City. It might be possible to go to the spar and steal Dred's First Order landing FOB, which would allow the PC's to land at the First Order camp, and, pretending ot be Mansar Dred, take the children away.
 
 > **Player Readout** 
-> **Lonn:** I've been thinking of joining the fight for a while, but I didn't want to put any of you in more danger. 
-> **Nal:** I eat danger for breakfast. In fact I'm not happy unless I get double-helpings. 
-> **BD-71:** Nal, this is the First Order we're going up against. This is breakfast, snacks, lunch, more snacks and dinner - ALL OF IT DEADLY DANGEROUS!!! 
-> **Saahlee:** I've been running scared my entire life. I want to fight back! I know I'm not a warrior but I can do my part. Maybe a small part. 
-> **Glockan:** HHAAA BAAAA GA BE GA BA BAH UPATA 
-> **PD-8 (Glockan's translater):** Glockan says 'My friends, Start with a small act of resistance.' 
-> **Glockan:** (SHOUTS) REEBA SHAAA BA HA HA BA GAMBAMA. 
-> Glockan's Sulustan technician peers out of a small hatch, apparently secretly listening to your entire conversation. 
-> **Reeba:** I think I know what you should do. 
+> **Lonn:** I've been thinking of joining the fight for a while, but I didn't want to put any of you in more danger. \
+> **Nal:** I eat danger for breakfast. In fact I'm not happy unless I get double-helpings. \
+> **BD-71:** Nal, this is the First Order we're going up against. This is breakfast, snacks, lunch, more snacks and dinner - ALL OF IT DEADLY DANGEROUS!!! \
+> **Saahlee:** I've been running scared my entire life. I want to fight back! I know I'm not a warrior but I can do my part. Maybe a small part. \
+> **Glockan:** HHAAA BAAAA GA BE GA BA BAH UPATA \
+> **PD-8 (Glockan's translater):** Glockan says 'My friends, Start with a small act of resistance.' \
+> **Glockan:** (SHOUTS) REEBA SHAAA BA HA HA BA GAMBAMA. \
+> Glockan's Sulustan technician peers out of a small hatch, apparently secretly listening to your entire conversation. \
+> **Reeba:** I think I know what you should do. \
 
 ### Act Two - Spar House Rock
 
