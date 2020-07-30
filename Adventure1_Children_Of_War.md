@@ -6,7 +6,7 @@ A Star Wars Roleplaying Game Adventure set in the Resistance Era.
 
 In the days and weeks after the destruction of Hosnian Prime, the First Order's subjugation fleet spreads across the galaxy, with countless warships taking up position in key star systems. Two cruisers have taken up position in the strategically important Dajahn system, which is the current base of operation for the player characters (PCs).
 
-Together, the PCs have decided that they can no longer sit back and watch the galaxy fall to the evil First Order. But how to respond? What to do, where to go? The obvious thing to do is to join the Resistance, but you can't just sign up, its a secret organisation, afterall. So, to start the PCs must find a way to resist on their own.
+Together, the PCs have decided that they can no longer sit back and watch the galaxy fall to the First Order. But how to respond? What to do, where to go? The obvious thing to do is to join the Resistance, but you can't just sign up, its a secret organisation, afterall. So, to start the PCs must find a way to resist on their own.
 
 ### Adventure Synopis
 
@@ -46,7 +46,7 @@ The first order intend to turn Dajahn's output towards their own war effort. To 
 The PCs are at their favourite drinking hole, Glockan's Place. More a spice coffee shop than a cantina. Glockan is perminantly situated on a large pedistal behind the bar. He's an Iphibbian,  whose bulky, hair-covered barrel-shapped body houses a surprisingly friendly looking face surrounded by an array of 8 long tenticles which he uses to simultaneously serve spice coffees, clean cups and dispense sweet snacks. Glockan can't speak Galactic Basic directly, but wears a sort of necklace that sports the head of a protocol droid called PD-8, who happily helps Glockan converse with customers. 
 
 > **GM Readout**
-> Life is this galaxy is not easy. You've all had to work hard. Lonn has struggled to win contracts for his banged-up Bacta tanker. Ex-storm trooper and retired bounty hunter, Nal, Lonn's oldest friend takes care of security, but every day things get more dangerous. Their companion, ex-battle droid BD-71 works its magic to keep their ship flying but suddenly independent ships are starting to feel the burdon of extra red tape. Very soon it may be impossible to flyi unless under the control of the First Order. And finally, Sarlee, the mysterious young teenager, and would-be stowaway, who everyone suspects of harbouring Force powers, she faces more dangers than anyone as the First Order actively hunts down anyone with Force sensitivity. 
+> Life in this galaxy is not easy. You've all had to work hard. Lonn has struggled to win contracts for his banged-up Bacta tanker. Ex-storm trooper and retired bounty hunter, Nal, Lonn's oldest friend takes care of security, but every day things get more dangerous. Their companion, ex-battle droid BD-71 works its magic to keep their ship flying but suddenly independent ships are starting to feel the burdon of extra red tape. Very soon it may be impossible to fly unless under the control of the First Order. And finally, Sarlee, the mysterious young teenager, and would-be stowaway, who everyone suspects of harbouring Force powers, she faces more dangers than anyone as the First Order actively hunts down anyone with Force sensitivity. 
 >
 > So, the time has come to take action. You all agree that its no longer enough to stand on the sidelines and hope the First Order will give up it's ambitions to take control of the whole galaxy. The New Republic has fallen, the first Order's subjugation fleet is now moving through the Free Systems, taking control. Thankfully General Leia Organa's resistance forces where able to destroy the First Order's super weapon, the so-called Star Killer Base, but the First Order retalliation was swift and devastating - last anyone heard the Resistance fleet was all but destroyed.
 > It seems that if you want the First Order defeated, you're going to have to do it yourselves. To this end, you are sitting at the bar in Glockan's, a spice-coffee bar located at the cheaper end of the star port. Glockan is an old friend and confidant who you have asked for help.
@@ -66,7 +66,16 @@ As the First Order is stretched for resources, they have sactioned the transport
 > **PD-8 (Glockan's translater):** Glockan says 'My friends, Start with a small act of resistance.' \
 > **Glockan:** (SHOUTS) REEBA SHAAA BA HA HA BA GAMBAMA. \
 > Glockan's Sulustan technician peers out of a small hatch, apparently secretly listening to your entire conversation. \
-> **Reeba:** I think I know what you should do. \
+> **Reeba:** I think I know what you should do. 
+
+Reeba explains that, when not maintaining Glockan's spice coffee machines to the highest operating standards, she is fond of listening in to Star Port traffic. She wanted to fly amonst the stars, listening to ship talk was as close as she ever got, but she got very good at hacking into communication hubs. Since the arrival of the First Order, Reeba has been employing her team of customised astromech's to crack the First Order's encryption, which she has been doing each day, as the encryption changes every 20 hours.
+
+A discussion came in yesterday that is especially concerning. Reeba plays a holograph of  voice waves.
+
+> **Intercept 1** \
+> **Voice 1** Commander Pirvee, can you confirm that we will meet Captain Phasma's quota for trainees? \
+> **Voice 2 (Commander Pirvee)** We sent around recruitment squads to outlying villages, we picked up 40 human younglings that meet the requirements for storm trooper training, they are currently being held in a makeshift camp at Docking Yard 79, you may send a transporter immediately. \
+> **Voice 1** We are currently too stretched to spare a transporter, I've sanctioned the services of a local slave trader called Mansar Dred. He'll arrive at Docking Yard 79 in three days, ensure that you cooperate fully, I expect those recruits to start indoctrination within 5 days. Get it done, commander. General Pryde out.
 
 ### Act Two - Spar House Rock
 
