@@ -90,12 +90,19 @@ There are a number of things the PCs can learn, as they quickly plan the heist.
 **Research**
 
 * Map (See Spar Club map)
-* Research can uncover the following extra points: +
-1) The spar is currently in an off season period as the soothing milky waters of the Foza Gan Volcanic streams are not currently at the ideal heat. 
-2) Monitor droids lightly patrol the surrounding forest lands. These patrols are currently not operating at night. It should be possible to sneak into the spar under the cover of night without much risk of being discovered.
-3) While the spar club is currently quiet, the adjacement landing pad and storage buildings appear to be occupied by well armed "muscle".
-4) The Owner of the spar is Bruchon Balgarno, a minor crime boss. This explains why there is a larged number of armed heavies based next to the club.
+* Research can uncover the following extra points: 
+ 1) The spar is currently in an off season period as the soothing milky waters of the Foza Gan Volcanic streams are not currently at the ideal heat. 
+ 2) Monitor droids lightly patrol the surrounding forest lands. These patrols are currently not operating at night. It should be possible to sneak into the spar under the cover of night without much risk of being discovered.
+ 3) While the spar club is currently quiet, the adjacement landing pad and storage buildings appear to be occupied by well armed "muscle".
+ 4) The Owner of the spar is Bruchon Balgarno, a minor crime boss. This explains why there is a larged number of armed heavies based next to the club.
 
+Glokan suggests that the safest strategy is to dress in white gowns that will give the impression of being members of the club's staff. Or dress as guests. Either way, weapons are prohibited in the club, so either go unarmed with small concealed weapons.
+
+##### Straight into hot water
+
+The PCs should plan their approach and then play it out. There's a complication, though. At the time that the PCs are planning to steal the fob, the club is attacked by an army of gang soliders, backed up by a small ground of first order shock troops. Golden Fang, the world's biggest crime family has made a pact with the First Order, where the minor crime families are destroyed. 
+
+The spar owner, Bruchon Balgarno, a minor crime boss is the target for a "decapitation strike", that will begin shortly after the PCs arrive on the scene. The attack force consists of forty gang fighters, backed by a team of six First Order shock troops and a single TIE fighter. Balgarno has a small force of twenty two fighters and armed staff. 
 
 
  
