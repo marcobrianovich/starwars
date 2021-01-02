@@ -76,7 +76,7 @@ A discussion came in yesterday that is especially concerning. Reeba plays a holo
 
 > **Intercept 1** \
 > **Voice 1** Commander Pirvee, can you confirm that we will meet Captain Phasma's quota for trainees? \
-> **Voice 2 (Commander Pirvee)** We sent around recruitment squads to outlying villages, we picked up 40 human younglings that meet the requirements for storm trooper training, they are currently being held in a makeshift camp at Docking Yard 79, you may send a transporter immediately. \
+> **Voice 2 (Commander Pirvee)** We sent recruitment squads to outlying villages, we picked up 40 human younglings that meet the requirements for storm trooper training, they are currently being held in a makeshift camp at Docking Yard 79, you may send a transporter immediately. \
 > **Voice 1** We are currently too stretched to spare a transporter, I've sanctioned the services of a local slave trader called Mansar Dred. He'll arrive at Docking Yard 79 in three days, ensure that you cooperate fully, I expect those recruits to start indoctrination within 5 days. Get it done, commander. General Pryde out.
 
 ### Act Two - Spar House Rock
