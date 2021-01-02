@@ -79,15 +79,28 @@ A discussion came in yesterday that is especially concerning. Reeba plays a holo
 > **Voice 2 (Commander Pirvee)** We sent recruitment squads to outlying villages, we picked up 40 human younglings that meet the requirements for storm trooper training, they are currently being held in a makeshift camp at Docking Yard 79, you may send a transporter immediately. \
 > **Voice 1** We are currently too stretched to spare a transporter, I've sanctioned the services of a local slave trader called Mansar Dred. He'll arrive at Docking Yard 79 in three days, ensure that you cooperate fully, I expect those recruits to start indoctrination within 5 days. Get it done, commander. General Pryde out.
 
-### Act Two - Spar House Rock
+#### Scene 2: Spar House Rock
 
-The PCs travel to the exclusive Spar Club where they must sneak in and steal Mansar Dred's First Order landing FOB, a small token that will identify the PCs ship as one working on behalf of the First Order. The Spar, it turns out is the headquarters for a local crime boss -- complicating the mission.
+The PCs travel to the exclusive Spar Club where they must sneak in and steal Mansar Dred's First Order landing FOB, a small token that will identify the PCs ship as one working on behalf of the First Order. However, while the PCs are sneaking into the club, there is a devasting attack by a combined force of local gangsters and First Order shock troopers.
 
-During the mission the PCs learn that Mansar Dred has betrayed the Crime Boss. Dropping the evidence in the hands of the Crime boss allows the PCs the leave with Mansar's fob, while Mansar is dragged into the gyser caverns, as a prisoner of the crime boss.
+##### Planning
+
+There are a number of things the PCs can learn, as they quickly plan the heist.
+
+**Research**
+
+* Map (See Spar Club map)
+* Research can uncover the following extra points: +
+1) The spar is currently in an off season period as the soothing milky waters of the Foza Gan Volcanic streams are not currently at the ideal heat. 
+2) Monitor droids lightly patrol the surrounding forest lands. These patrols are currently not operating at night. It should be possible to sneak into the spar under the cover of night without much risk of being discovered.
+3) While the spar club is currently quiet, the adjacement landing pad and storage buildings appear to be occupied by well armed "muscle".
+4) The Owner of the spar is Bruchon Balgarno, a minor crime boss. This explains why there is a larged number of armed heavies based next to the club.
 
 
 
-### Act Three: The big rescue
+ 
+
+### Act Two: The big rescue
 
 #### Scene 1 - Planning
 
